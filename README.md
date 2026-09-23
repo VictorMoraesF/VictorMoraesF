@@ -1,4 +1,4 @@
-Código da aula <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/> 
                                                [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=5007&pause=1000&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Victor+Moraes;+I'm+26+years+old;+I'm+from+to+Brazil+;and+Data+Scientist.;Be+Welcome!)](https://git.io/typing-svg)
 
  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=VictorMoraesF&rank_icon=github&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=VictorMoraesF&rank_icon=github&include_all_commits=true&theme=dark_github)
