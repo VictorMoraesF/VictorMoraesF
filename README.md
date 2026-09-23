@@ -1,6 +1,7 @@
 # Victor Moraes 
 ## Bem-vindo ao meu GitHub! 📊
-Sou apaixonado por extrair insights de dados e focado em construir soluções robustas de Machine Learning.
+
+Em constante evolução. 🚀 Foco minha rotina em construir bases sólidas em Machine Learning e Estatística, entendendo desde a engenharia de features e o tratamento minucioso de dados até a tomada de decisão baseada em modelos probabilísticos e preditivos. Acredito que um bom modelo nasce de uma base bem estruturada e de um entendimento claro do problema. Explore meus repositórios para ver minha prática em Data Science.
 
 Foco de desenvolvimento atual:
 
